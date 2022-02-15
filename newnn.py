@@ -30,5 +30,6 @@ dataiter=iter(train_set)
 images,labels=dataiter.next()
 show_images(images)
 
+print("Hello")
 
 
